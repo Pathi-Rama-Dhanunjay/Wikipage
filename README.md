@@ -27,3 +27,4 @@ This starter uses native browser modules with `sctipt type="module"`.
 
 You can import other files, as long as you the path is correct, starts with a `./` and ends with `.js`.  
 Note that you cannot import libraries installed with NPM as bare modules are not supported by browsers yet.
+Done.
